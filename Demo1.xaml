@@ -107,7 +107,7 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:LogMessage DisplayName="Log Message 7 - New Feature" sap:VirtualizedContainerService.HintSize="416,166" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;New feature dated: &quot; + Now.Date.ToString]" />
+      <ui:LogMessage DisplayName="Log Message 7 - New Feature" sap:VirtualizedContainerService.HintSize="416,166" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;7. New feature dated: &quot; + Now.Date.ToString]" />
     </Sequence>
   </Sequence>
 </Activity>
